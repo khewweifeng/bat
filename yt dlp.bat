@@ -3,7 +3,7 @@ cd downloads
 :start
 set /p y= "YT LINK: "
 
-echo .\yt-dlp -f "bv*" %y% | clip
+echo .\yt-dlp %y% | clip
 start /d C:\Users\kheww\Downloads
 goto start
 
