@@ -1,0 +1,1 @@
+clip < "ytdlp.txt"
